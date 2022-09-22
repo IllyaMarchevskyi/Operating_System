@@ -8,7 +8,7 @@
 <p><i> КІ-20-1 </i>;
 
 
-Мої завдання
+<p>Мої завдання
 
 1. [Лабораторна 1](https://github.com/IllyaMarchevskyi/Lab1_Operating_System)
 2. [Лабораторна 2](https://github.com/IllyaMarchevskyi/Lab2_Operating_System)
