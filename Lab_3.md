@@ -584,7 +584,7 @@ man pstree
 * Який ідентифікатор має кореневий процес системи?
 
 Відповідь:
-  systemd(1)─┬─ModemManager(479)─┬─{ModemManager}(512)
+<p>systemd(1)─┬─ModemManager(479)─┬─{ModemManager}(512)
 
   
 # Процеси Linux
