@@ -72,10 +72,10 @@
 Запустить віртуальну машину Ubuntu
 <p>Відкрийте термінал 
 <p>Виконайте команду 
-```
+```shell
 pstree -p
 ```
-```
+```shell
 systemd(1)─┬─ModemManager(479)─┬─{ModemManager}(512)
            │                   └─{ModemManager}(519)
            ├─NetworkManager(399)─┬─{NetworkManager}(480)
