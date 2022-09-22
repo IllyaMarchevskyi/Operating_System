@@ -592,7 +592,7 @@ man pstree
 ```
 
 Пояснення за що відповідає даний вивід.
-  [top](https://gadgetshelp.com/how-to/kak-ispolzovat-komandu-linux-top-dlia-pokaza-zapushchennykh-protsessov/)
+<p>[top](https://gadgetshelp.com/how-to/kak-ispolzovat-komandu-linux-top-dlia-pokaza-zapushchennykh-protsessov/)
   
 Натисніть 
 `f`
@@ -604,4 +604,9 @@ man pstree
 
 Запитання:
   Що означають атрибути PPID та GROUP?
+  
+Відповідь:
+<p><b>PID (Process ID)</b> - це id процеса
+<p><b>PPID (Parent Process ID – ID батківського процесу)</b> - показує ким була запущений процес
+<p><b>GROUP</b> - показує від якого користувача був запущенниц процес
 
