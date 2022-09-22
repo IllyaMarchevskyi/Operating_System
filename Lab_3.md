@@ -77,7 +77,6 @@
 ```
   pstree -p
 ```
-<p>
 ```
   systemd(1)─┬─ModemManager(479)─┬─{ModemManager}(512)
            │                   └─{ModemManager}(519)
