@@ -8,6 +8,6 @@
 
 Мої завдання
 
-1. [Лабораторна 1](https://github.com/IllyaMarchevskyi/Lab1_Operating_System)
-2. [Лабораторна 2](https://github.com/IllyaMarchevskyi/Lab2_Operating_System)
+1. [Лабораторна 1](https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_1.md)
+2. [Лабораторна 2](https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_2.md)
 3. [Лабораторна 3](https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_3.md)
