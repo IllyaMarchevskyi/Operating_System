@@ -6,6 +6,7 @@
 ## Підготовка середовища (Прогама встановлюється лише на Windows)
 
 Встановлюємо ProcessExplorer:
+
 Cилка на сайт - [Оriginal site](https://learn.microsoft.com/uk-ua/sysinternals/downloads/process-explorer)
 Силка зразу на встановлення - [Dowloand ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip)
 
