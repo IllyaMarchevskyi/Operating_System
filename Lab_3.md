@@ -592,12 +592,13 @@ man pstree
 Запустить віртуальну машину Ubuntu
 <p>Відкрийте термінал 
 <p>Виконайте команду 
+  
 ```
   top
 ```
 
-Пояснення за що відповідає даний вивід.
-<p>[top](https://gadgetshelp.com/how-to/kak-ispolzovat-komandu-linux-top-dlia-pokaza-zapushchennykh-protsessov/)
+Пояснення за що відповідає даний вивід:
+  [top](https://gadgetshelp.com/how-to/kak-ispolzovat-komandu-linux-top-dlia-pokaza-zapushchennykh-protsessov/)
   
 Натисніть 
 `f`
