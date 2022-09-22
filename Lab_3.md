@@ -605,7 +605,7 @@ man pstree
 `f`
 Відкриється можливіть обирати додаткові поля, оберіть додатково PPID та GROUP.
   
-https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_3.md#%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%96%D0%B2-linux
+![Screenshot from 2022-09-22 13-17-16](https://user-images.githubusercontent.com/113579489/191723123-f288d8d0-8500-49cf-813c-d6c1e182df06.png)
 
 Для того аби вибрати використовуйте стрілочки вгору і вниз клавіатури.
 Для вибору поля – пробіл.
