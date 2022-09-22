@@ -596,13 +596,17 @@ man pstree
 ```
   top
 ```
+  ![Screenshot from 2022-09-22 13-15-03](https://user-images.githubusercontent.com/113579489/191721464-40f65ba1-798d-4f9c-abfc-c96ea13a56e7.png)
 
 Пояснення за що відповідає даний вивід:
   [top](https://gadgetshelp.com/how-to/kak-ispolzovat-komandu-linux-top-dlia-pokaza-zapushchennykh-protsessov/)
-  
+
 Натисніть 
 `f`
 Відкриється можливіть обирати додаткові поля, оберіть додатково PPID та GROUP.
+  
+https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_3.md#%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%96%D0%B2-linux
+
 Для того аби вибрати використовуйте стрілочки вгору і вниз клавіатури.
 Для вибору поля – пробіл.
 Після вибору для виходу натисніть:
