@@ -6,4 +6,4 @@
 
 1. [Лабораторна 1]()
 2. [Лабораторна 2]()
-3. [Лабораторна 3]()
+3. [Лабораторна 3](https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_3.md)
