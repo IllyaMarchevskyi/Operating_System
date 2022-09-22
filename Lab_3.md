@@ -1,4 +1,6 @@
-# Практична робота №3.  Потоки і процеси
+
+
+#  Потоки і процеси
 
 1. [Підготовка середовища]()
 2.
@@ -9,9 +11,22 @@
 * Cилка на сайт - [Оriginal site](https://learn.microsoft.com/uk-ua/sysinternals/downloads/process-explorer)
 * Силка зразу на встановлення - [Dowloand ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip)
 
-Разархівовуэмо та встановіть ProcessExplorer.
+Розархівовуємо та встановлюємо ProcessExplorer.
 
+![image](https://user-images.githubusercontent.com/113579489/191675520-0c52346f-512a-43a1-a0cf-93f93990dddb.png)
 
-Запустіть ProcessExplorer procexp.exe
+Запускаємо ProcessExplorer procexp.exe
 
+![image](https://user-images.githubusercontent.com/113579489/191675413-fa992512-21cc-4278-bb41-22f91d250d42.png)
 
+# Процеси у Windows
+
+Запустіть Chrome. Зверніть увагу що Chrome запускає кілька процесів.
+
+Відкрийте нові вкладки у Chrome, з якимись сайтами.
+
+![image](https://user-images.githubusercontent.com/113579489/191676810-987862a9-f72c-4969-8d20-35ccd7fff85f.png)
+
+Відмітьте, що кількість потоків збільшилась.
+
+Виберіть кореневий процес chrome.exe і призупиніть його. Для цього правою кнопкою на процесі -> Suspend.
