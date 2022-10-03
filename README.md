@@ -11,3 +11,4 @@
 1. [Лабораторна 1](https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_1.md)
 2. [Лабораторна 2](https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_2.md)
 3. [Лабораторна 3](https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_3.md)
+4. [Лабораторна 4](https://github.com/IllyaMarchevskyi/Operating_System/blob/main/Lab_4.md)
